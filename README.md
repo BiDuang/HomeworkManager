@@ -11,4 +11,4 @@ HomeworkManager 是基于 Python 编写的个人作业计划整理系统。它�
  - 易于拓展和模块化设计，基于原有代码可以快速构建新平台的爬取器
  - 开发者也在使用此程序，因此你的 Issue 和 PR 会被快速处理
 
-使用指南在此 [https:https://blog.biduang.cn/archives/92/](https://blog.biduang.cn/archives/92/)
+使用指南请访问 [https:https://blog.biduang.cn/archives/92/](https://blog.biduang.cn/archives/92/)
