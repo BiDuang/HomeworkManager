@@ -1,3 +1,4 @@
 .vscode/settings.json
 homeworkManager_info.json
 Module\__pycache__
+Module\__pycache__\*
